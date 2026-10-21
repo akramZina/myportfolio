@@ -1,7 +1,8 @@
 // ===== تأثير الكتابة المتحركة =====
 const roles = [
-  'الفرقة الرابعة · نظم الحاسبات والمعلومات الإدارية',
-  'مشارك في مشروع Girls Mall'
+  'الفرقة الرابعة',
+  'نظم الحاسبات والمعلومات الإدارية',
+  'معهد الدلتا العالي'
 ];
 const typedEl = document.getElementById('typed');
 let roleIndex = 0, charIndex = 0, deleting = false;
